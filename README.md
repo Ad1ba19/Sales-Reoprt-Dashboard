@@ -1,1 +1,2 @@
 # Sales-Reoprt-Dashboard
+Conducted detailed analysis of sales data spanning January to February, revealing a significant 19% decrease in February compared to January. Through meticulous examination of sales trends by location, identified specific cities like Lloydminster Cannabis City and Saskatoon as outliers showing slight increases amidst an overall downward trend. Leveraged comparison charts and cumulative sales analysis to provide actionable insights, guiding strategic decision-making to refine sales strategies and capitalize on growth opportunities.
